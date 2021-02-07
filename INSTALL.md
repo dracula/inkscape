@@ -1,17 +1,21 @@
-### [X](http://link-to-x.com)
+### [INKSCAPE](https://inkscape.org/)
 
-#### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+![Before](./assets/before.png)
 
-    $ git clone https://github.com/dracula/template.git
+#### Install Theme
+Download using the [GitHub .zip download](https://github.com/dracula/gtk/archive/master.zip) option and unzip them to your User themes folder, in my case /home/teste/.local/share/themes.
 
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+#### Install Icons (optional)
+Download using the [GitHub .zip download](https://github.com/dracula/gtk/files/5214870/Dracula.zip) option and unzip them to your User themes folder, in my case /home/teste/.config/inkscape/icons.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+![After](./assets/after.png)
+
+Go to Edit > Preferences > Interface > Theme  and change the theme and/or icon theme.
+
+
+#### Credits
+
+The themes are avaliable in [GTK Dracula Theme](https://draculatheme.com/gtk)

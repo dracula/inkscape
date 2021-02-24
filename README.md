@@ -1,6 +1,6 @@
-# Dracula for [INKSCAPE](https://inkscape.org/)
+# Dracula for [Inkscape](https://inkscape.org/)
 
-> A dark theme for [INKSCAPE](https://inkscape.org/).
+> A dark theme for [Inkscape](https://inkscape.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/inkscape](https://draculathem
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/inkscape/graphs/contributors).
 
 [![Dpbm](https://github.com/Dpbm.png?size=100)](https://github.com/Dpbm) |
 --- |
